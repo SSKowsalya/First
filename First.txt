@@ -1,1 +1,1 @@
-Here my first try work with git and github
+Here my first try work with git and github and vs code.
