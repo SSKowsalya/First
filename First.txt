@@ -1,1 +1,2 @@
 Here my first try work with git and github and vs code.
+after adding dummy again add some changes in github
